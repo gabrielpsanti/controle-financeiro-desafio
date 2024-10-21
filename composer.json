@@ -1,0 +1,17 @@
+{
+    "name": "gabri/despesas",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Santi",
+            "email": "gabrielspessoti@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    }
+}
