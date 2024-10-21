@@ -32,8 +32,6 @@ cd controle-financeiro-desafio
 2. Abra o arquivo `/src/Config/banco_dados.php` com um editor de texto (como o Bloco de Notas) e atualize as informações de conexão com o banco de dados:
 
 ```php
-<?php
-
 define('DB_HOST', 'localhost');
 define('DB_NOME', 'despesas');
 define('DB_USUARIO', 'root');

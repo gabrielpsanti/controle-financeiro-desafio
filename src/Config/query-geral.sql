@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS despesasteste;
-USE despesasteste;
+CREATE DATABASE IF NOT EXISTS despesasdesafio;
+USE despesasdesafio;
 
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
