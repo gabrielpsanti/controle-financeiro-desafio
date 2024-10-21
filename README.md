@@ -52,6 +52,3 @@ Acesse [http://localhost:8000](http://localhost:8000) no seu navegador para ver 
 - **Transações**: Na aba transações, o usuário pode visualizar, criar, editar e excluir transações. Há também a opção de aplicar filtros, resetar filtros e baixar relatórios (em caso de conta premium). O usuário pode testar o sistema sem ser premium inicialmente e depois acessar uma página onde é possível mudar o nível da conta para premium, simplesmente clicando em prosseguir. Após isso, relatórios filtrados estarão disponíveis para download.
 - **Relatórios**: Foi usada a biblioteca dompdf/dompdf do composer para gerar relatórios filtrados.
 - **Categorias**: O usuário pode criar, editar, visualizar e excluir categorias. Caso existam transações vinculadas à categoria a ser excluída, o usuário terá a opção de trocar em massa as categorias das transações vinculadas.
-- **Controle de Receitas e Despesas**: Adicione, edite ou exclua transações financeiras.
-- **Categorias**: Crie e gerencie categorias para organizar melhor suas transações.
-
