@@ -28,7 +28,7 @@ cd controle-financeiro-desafio
 
 ### 4. Configurar o banco de dados
 
-1. Crie um banco de dados MySQL para o projeto.
+1. Crie um banco de dados MySQL para o projeto (basta rodar o arquivo do passo a seguir).
 2. Abra o arquivo `/src/Config/banco_dados.php` com um editor de texto (como o Bloco de Notas) e atualize as informações de conexão com o banco de dados:
 
 ```php
