@@ -39,6 +39,7 @@ define('DB_SENHA', '');
 Você pode usar o servidor embutido do PHP para testar o projeto:
 
 ```bash
+cd controle-financeiro-desafio
 php -S localhost:8000 -t public/
 ```
 
